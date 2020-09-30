@@ -1,0 +1,9 @@
+body{
+  background-color: #66BFBF;
+}
+img{
+  background-color: red;
+}
+.circular{
+  border-radius: 100%;
+}
