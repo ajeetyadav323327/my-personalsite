@@ -3,6 +3,7 @@ body{
 }
 img{
   background-color: red;
+  border-size: 10px;
 }
 .circular{
   border-radius: 100%;
